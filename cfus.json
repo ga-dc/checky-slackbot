@@ -1,0 +1,8 @@
+[
+  {
+    "name": "git init",
+    "question": "What does git init do?",
+    "answers": ["a) intializes git repo","b) smells funny","c) gets me a lemonade"],
+    "correct_answer": "a"
+  }
+]
